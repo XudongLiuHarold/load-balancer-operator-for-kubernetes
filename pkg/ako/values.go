@@ -433,8 +433,8 @@ func DefaultResources() *Resources {
 			Memory: "400Mi",
 		},
 		Requests: Requests{
-			Cpu:    "100m",
-			Memory: "200Mi",
+			Cpu:    "200m",
+			Memory: "300Mi",
 		},
 	}
 }
